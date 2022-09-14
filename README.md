@@ -2,8 +2,6 @@
 
 **MkDocs with GitHub Pages via GitHub Actions (minimal configuration)**
 
-<https://github.com/fu-sen/GitHubPages-MkDocs>
-
 - [GitHub Pages](https://pages.github.com/)
 - [MkDocs](https://www.mkdocs.org/)
 
